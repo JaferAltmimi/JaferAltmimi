@@ -4,15 +4,16 @@
 
 <div align="center">
 
-### 👋 Hi, I'm Jafer
+# 👋 Hi, I'm Jafer Altmimi
+### جعفر خالد صالح التميمي
 
-**AI Systems Builder · Software Workflow Automation · Network Infrastructure**
+**Full-Stack & Backend Engineering · Network & Systems Architecture · AI Automation**
 
-I turn complex ideas into structured engineering workflows — bringing together **AI-assisted development**, **practical software tools**, and **real-world connectivity systems**.
+Building reliable **local-first applications**, **enterprise systems**, **intelligent software workflows**, and **connectivity infrastructure**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-JaferAltmimi-17233B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaferAltmimi)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Automation-087F8C?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based%20in-Hadhramaut%2C%20Yemen-3D4B74?style=for-the-badge)
+![Location](https://img.shields.io/badge/Hadhramaut-Yemen-0D748C?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Engineering-AI%20%7C%20Systems%20%7C%20Networks-5B5BAE?style=for-the-badge)
 
 </div>
 
@@ -20,107 +21,156 @@ I turn complex ideas into structured engineering workflows — bringing together
 
 ## ✦ About Me
 
-I'm interested in the space where **software engineering, intelligent automation, and infrastructure operations** meet. My work is driven by a simple idea: great systems should be thoughtfully designed, testable, secure, and genuinely useful.
+I'm a software engineer and network systems practitioner interested in connecting sophisticated software with the infrastructure and workflows that people rely on every day.
 
-- 🤖 **AI-driven engineering:** Developing structured, multi-agent workflows to support the software lifecycle.
-- 🧩 **Software & automation:** Building practical tools and exploring Python- and Kotlin-based solutions.
-- 🌐 **Network operations:** Working with internet infrastructure, wireless connectivity, routing, and service reliability.
-- 🔍 **Engineering mindset:** Favoring evidence, maintainability, clear boundaries, and continuous improvement.
+My engineering interests span **C# / ASP.NET Core**, **Python**, **Flutter / Dart**, **SQL Server**, **SQLite**, and **networking with MikroTik, Ubiquiti, and Starlink**. I value **local-first and self-hosted architectures** that can work reliably even when internet connectivity is limited.
+
+Beyond writing code, I focus on **maintainable architecture, evidence-based testing, technical auditing, security, and human-led AI development**.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Areas I Work In
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🤖 AI Software Factory</h3>
-<p><strong>Active, private development project</strong></p>
-<p>An evolving approach to software delivery that coordinates specialized AI agents across requirements, architecture, implementation, testing, security review, documentation, and release planning.</p>
-<p><strong>Focus:</strong> Agent orchestration · Quality gates · Traceability · Human oversight</p>
+
+### 🤖 AI Software Factory
+
+An evolving, private **multi-agent software engineering initiative** spanning requirements, architecture, implementation, integration, QA, security review, documentation, and release governance.
+
+**Focus:** Specialized agents · Quality gates · Verifiable evidence · Human oversight
+
 </td>
 <td width="50%" valign="top">
-<h3>🌐 Network & Infrastructure Operations</h3>
-<p><strong>Hands-on operational experience</strong></p>
-<p>Working on practical connectivity challenges involving routing, Wi-Fi distribution, user access management, performance diagnostics, and network reliability.</p>
-<p><strong>Focus:</strong> MikroTik · Ubiquiti · Starlink · Troubleshooting</p>
+
+### 🏗️ Enterprise & Local-First Systems
+
+Designing backend, desktop, and institutional workflows with resilient business logic and local data ownership.
+
+**Focus:** ASP.NET Core · SQL Server · Python · SQLite · Self-hosted systems
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🛠️ Python Tools & Dashboards</h3>
-<p>Experimenting with Python-based utilities, clear data visualization, and operational dashboards that make complex workflows easier to understand.</p>
+
+### 🌐 Networking & Infrastructure
+
+Working with wireless distribution, routing, user access, bandwidth policies, multi-site connectivity, and reliable network operations.
+
+**Focus:** MikroTik RouterOS · VLANs · PCQ · Starlink · Ubiquiti · OpenWrt · ZeroTier
+
 </td>
 <td width="50%" valign="top">
-<h3>📱 Android & Kotlin</h3>
-<p>Exploring Android applications, background services, and device-side workflows with Kotlin and Android Studio.</p>
+
+### 📊 Automation, Mobile & Data
+
+Creating reporting tools, dashboards, Android solutions, and practical automation workflows.
+
+**Focus:** Python · Matplotlib · PyInstaller · Flutter · Dart · Android Studio
+
 </td>
 </tr>
 </table>
 
-> **A note on my projects:** Some work is intentionally kept private while it is being developed and reviewed. Public repositories and demonstrations will be linked here when available.
+---
+
+## 🏆 Selected Projects & Engineering Work
+
+### 🏥 Hospital Attendance System
+**Python · Microsoft Access · Matplotlib · PyInstaller**
+
+A biometric attendance-processing application designed around hospital work schedules and attendance databases. Features include dynamic physician shifts, single-punch handling, and Arabic reports and analytical dashboards.
+
+### 🌐 Civil Birth Registration Infrastructure
+**Network Architecture · MikroTik · ZeroTier · SQL**
+
+Architecture and connectivity work focused on linking distributed health facilities to centralized local registration services. Emphasis on secure access, continuity, and operational reliability.
+
+### 🏛️ Military Hospital & Civil Registration Platform
+**C# · ASP.NET Core · SQL Server**
+
+An enterprise software architecture covering patient workflows, identity verification requirements, referrals, and audit-oriented system design.
+
+### 📱 Wi-Fi Voucher Sales & Accounting
+**Flutter · Dart · SQLite · PDF Reporting**
+
+A local-first accounting and sales app concept for Wi-Fi vouchers, including debt tracking, invoicing, and careful monthly record-handling logic.
+
+### 🎮 Glitch Zero
+**Unity · C#**
+
+A 2D action-platformer game project developed in an indie game-development context.
+
+### 🛠️ AI-Assisted Development & Tools
+**Git · GitHub · VS Code · OpenAI Codex · OpenCode · Antigravity**
+
+Exploring agent-assisted programming, code review, test discipline, and automation of engineering workflows while keeping important decisions under human control.
+
+> Some projects are private, under development, or shared here as engineering work and architecture descriptions rather than public source-code releases.
 
 ---
 
-## 🧰 My Technical Toolkit
+## 🧰 Technology Stack
 
 <div align="center">
 
-**Development & Version Control**
+**Languages & Frameworks**
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 
-**AI & Engineering Workflows**
+**Databases & Analytics**
 
-![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-334155?style=flat-square)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0F766E?style=flat-square)
-![Testing](https://img.shields.io/badge/QA_%26_Testing-2563EB?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-7C3AED?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-**Networking & Infrastructure**
+**Infrastructure & Engineering Tools**
 
 ![MikroTik](https://img.shields.io/badge/MikroTik-293241?style=flat-square)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
 ![Starlink](https://img.shields.io/badge/Starlink-111827?style=flat-square)
-![Wireless](https://img.shields.io/badge/Wireless_Networks-0E7490?style=flat-square)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white)
+![ZeroTier](https://img.shields.io/badge/ZeroTier-FFB400?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
-<details>
-<summary><strong>🌱 Technologies and practices I'm exploring</strong></summary>
-
-Agentic coding tools, local AI workflows, containerized development, test automation, Android architecture, and improved developer tooling.
-
-</details>
-
 ---
 
-## 🧭 How I Approach Engineering
+## 🧭 Engineering Principles
 
-| Principle | What it means to me |
+| Principle | Approach |
 | :-- | :-- |
-| **Evidence over assumptions** | Verify outcomes with tests, logs, and reproducible results. |
-| **Design before scale** | Establish clear boundaries and maintainable architecture. |
-| **Security by design** | Make review, access control, and risk evaluation part of the process. |
-| **Human-led AI** | Use AI to accelerate work while preserving human responsibility for important decisions. |
-| **Practical impact** | Build for real users, real constraints, and real operating conditions. |
+| **Evidence over assumptions** | Validate outcomes through tests, logs, and reproducible results. |
+| **Local-first reliability** | Engineer for real operating conditions, not just ideal connectivity. |
+| **Architecture with purpose** | Clear boundaries and maintainable business logic come first. |
+| **Security & auditability** | Design with access control, review, and traceability in mind. |
+| **Human-led AI** | Use intelligent agents to accelerate work without surrendering accountability. |
+| **Practical impact** | Solve concrete problems for real users. |
 
 ---
 
-## 🎯 Current Direction
+## 📈 GitHub Activity
 
-I'm focused on strengthening my **AI-assisted engineering workflow**, improving the **testing and integration discipline** behind it, and creating software tools that connect automation with operational needs.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaferAltmimi&show_icons=true&theme=tokyonight&hide_border=true" alt="Jafer's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaferAltmimi&layout=compact&theme=tokyonight&hide_border=true" alt="Top public GitHub languages" height="165" />
+</p>
 
 <div align="center">
 
 ### Build carefully. Verify continuously. Improve deliberately.
 
 **صناعة الأنظمة تبدأ بفكرة، وتنجح بالدقة والتجربة والتطوير المستمر.**
-
-[Explore my GitHub profile →](https://github.com/JaferAltmimi)
 
 </div>
