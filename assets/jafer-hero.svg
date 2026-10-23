@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Jafer Altmimi — AI Systems, Automation and Network Engineering</title>
+<desc id="desc">Midnight blue banner with cyan and violet connected systems constellation.</desc>
+<defs>
+<linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081326"/><stop offset=".54" stop-color="#101C3A"/><stop offset="1" stop-color="#11172F"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5DE2E7"/><stop offset=".56" stop-color="#6DA8FF"/><stop offset="1" stop-color="#B58CFF"/></linearGradient>
+<linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#52F2DF"/><stop offset=".53" stop-color="#5D8FFF"/><stop offset="1" stop-color="#BA88FF"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#3B82F6" stop-opacity=".35"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8297B6" stroke-opacity=".085"/></pattern>
+<clipPath id="outer"><rect width="1200" height="340" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#outer)">
+<rect width="1200" height="340" fill="url(#base)"/><rect width="1200" height="340" fill="url(#grid)"/>
+<circle cx="980" cy="155" r="270" fill="url(#glow)"/><circle cx="40" cy="325" r="175" fill="url(#glow)" opacity=".55"/>
+<path d="M0 0H1200" stroke="url(#accent)" stroke-width="6"/>
+<path d="M60 286H580" stroke="#8197B7" stroke-opacity=".22"/>
+<rect x="65" y="50" width="205" height="28" rx="14" fill="#142E47" stroke="#60D8EE" stroke-opacity=".35"/>
+<circle cx="82" cy="64" r="4.5" fill="#55E8D3"/>
+<text x="96" y="69" fill="#AEEAF1" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2" font-weight="700">ENGINEERING THE NEXT</text>
+<text x="62" y="151" fill="#F6FAFF" font-family="Segoe UI,Arial,sans-serif" font-size="57" font-weight="800" letter-spacing="2">JAFER ALTMIMI</text>
+<rect x="65" y="165" width="345" height="4" rx="2" fill="url(#accent)"/>
+<text x="65" y="207" fill="#C7D7EE" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600">AI SYSTEMS <tspan fill="#6A8CA9">/</tspan> AUTOMATION <tspan fill="#6A8CA9">/</tspan> NETWORKS</text>
+<text x="65" y="247" fill="#9DB1D0" font-family="Segoe UI,Arial,sans-serif" font-size="15">From ambitious ideas to reliable, real-world systems.</text>
+<text x="65" y="309" fill="#6EE7DE" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">HADHRAMAUT · YEMEN</text>
+<g transform="translate(975 169)">
+<circle r="145" stroke="#6680AC" stroke-opacity=".15" stroke-width="1.5" fill="none"/>
+<circle r="113" stroke="url(#ring)" stroke-opacity=".30" stroke-width="1.5" stroke-dasharray="6 10" fill="none"/>
+<circle r="77" stroke="#9D9DFE" stroke-opacity=".27" fill="none"/>
+<path d="M-123 -12L-73 -46L-19 -90L80 -55L119 20L67 85L-30 95L-114 42Z" fill="none" stroke="url(#ring)" stroke-width="2" stroke-opacity=".7"/>
+<path d="M-123 -12L-25 15L-73 -46M-25 15L80 -55M-25 15L67 85M-25 15L-30 95M-25 15L119 20" fill="none" stroke="#86A4EC" stroke-opacity=".45" stroke-width="1.5"/>
+<path d="M-19 -90L67 85M-73 -46L119 20" fill="none" stroke="#86A4EC" stroke-opacity=".16"/>
+<circle cx="-123" cy="-12" r="7" fill="#0D2741" stroke="#64E5E6" stroke-width="3"/>
+<circle cx="-73" cy="-46" r="6" fill="#0D2741" stroke="#6DA8FF" stroke-width="3"/>
+<circle cx="-19" cy="-90" r="6" fill="#0D2741" stroke="#B58CFF" stroke-width="3"/>
+<circle cx="80" cy="-55" r="8" fill="#122342" stroke="#6DA8FF" stroke-width="3"/>
+<circle cx="119" cy="20" r="7" fill="#142640" stroke="#5DE2E7" stroke-width="3"/>
+<circle cx="67" cy="85" r="6" fill="#152848" stroke="#B58CFF" stroke-width="3"/>
+<circle cx="-30" cy="95" r="7" fill="#142640" stroke="#5DE2E7" stroke-width="3"/>
+<circle cx="-114" cy="42" r="6" fill="#142640" stroke="#B58CFF" stroke-width="3"/>
+<circle cx="-25" cy="15" r="38" fill="#14294B" stroke="url(#ring)" stroke-width="2"/>
+<path d="M-43 10L-31 -2L-19 10L-7 -2M-43 23L-31 11L-19 23L-7 11" fill="none" stroke="#B9F9FC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-19" cy="10" r="4" fill="#B58CFF"/>
+<text x="25" y="-100" fill="#9BAED2" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.8">AGENTS</text>
+<text x="96" y="68" fill="#9BAED2" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.8">OPS</text>
+<text x="-144" y="-65" fill="#9BAED2" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.8">SYSTEMS</text>
+</g></g></svg>
