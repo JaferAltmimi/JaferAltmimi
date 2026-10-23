@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/jafer-hero.svg" width="100%" alt="Jafer Altmimi — AI Systems, Automation and Network Engineering" />
+  <img src="./assets/jafer-hero.png" width="100%" alt="Jafer Altmimi — Professional GitHub Profile Banner" />
 </p>
 
 <div align="center">
