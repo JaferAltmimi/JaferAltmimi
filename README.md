@@ -5,7 +5,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Jafer Altmimi
-### جعفر خالد صالح التميمي
+### جعفر التميمي
 
 **Full-Stack & Backend Engineering · Network & Systems Architecture · AI Automation**
 
